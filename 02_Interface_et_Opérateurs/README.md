@@ -20,6 +20,6 @@ Quelques oeuvres pour commencer:
 
 Dans l'art génératif, les processus computationels génère des formes, des mouvements et des sont synthétisés en temps réel devant le public. À noter que l'interaction n'est pas au centre du processus génératif, bien qu'il puisse en faire parti. 
 
-Le processus génératif comporte deux grands aspect qui peuvent être déclinés sous plusieurs formes (le cours porte entrièrement sur ces deux asepct): 
+Le processus génératif comporte deux grands aspect qui peuvent être déclinés sous plusieurs formes (le cours porte entrièrement sur ces deux aspects): 
 1. L'algorithme (les opérations qui génère la forme)
 2. Le paramétrage (les paramètres qui modifie ce que le processus génère)
