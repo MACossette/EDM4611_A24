@@ -23,8 +23,8 @@ Le processus génératif comporte deux grands aspect qui peuvent être décliné
 1. Création et partage de votre repo Github pour le cours 
 2. Créer un commit sur votre repo 
 3. Familiarisation avec l'interface de Touch designer : quelques défis
-	3.1. Utiliser votre caméra pour faire une version "pixel art" de vous-même, mais en 1280 * 720 pixels 
-	3.2. Utiliser les opérateurs d'interface et les CHOP pour faire des calculs avec le Math CHOP
-	3.3. Utiliser le ramp et le displace TOP pour explorer les transformations d'une vidéo 
-	3.4. Explorer les méthode de compositing avec le Composite TOP. Qu'est-ce qui se passe quand on change l'ordre des layers? 
-	3.5. Utiliser le audio file in CHOP et le audio device out CHOP pour faire jouer un fichier audio. Explorer les CHOP de transformation audio pour voir comment ils transforment le son. 
+	1. Utiliser votre caméra pour faire une version "pixel art" de vous-même, mais en 1280 * 720 pixels 
+	2. Utiliser les opérateurs d'interface et les CHOP pour faire des calculs avec le Math CHOP
+	3. Utiliser le ramp et le displace TOP pour explorer les transformations d'une vidéo 
+	4. Explorer les méthode de compositing avec le Composite TOP. Qu'est-ce qui se passe quand on change l'ordre des layers? 
+	5. Utiliser le audio file in CHOP et le audio device out CHOP pour faire jouer un fichier audio. Explorer les CHOP de transformation audio pour voir comment ils transforment le son. 
