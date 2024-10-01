@@ -17,7 +17,7 @@
 ### Quelques oeuvres pour commencer 
 
 ### Atelier 
-1. Modéliser l'objet qui vous sera assigné au début de l'atelier
+1. Créer une architecture générative à l'aide de blocs.
 2. Créer un RENDER Network 
 3. Utiliser des TOP pour faire des effets / transformation sur votre rendu
 4. Créer un "orbite" avec votre caméra pour tourner autour de votre objet 
