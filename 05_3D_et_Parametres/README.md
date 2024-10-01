@@ -15,6 +15,9 @@
 9. Créer votre sortie finales et assigner un écran au WINDOW pour utiliser en mode PERFORM 
 
 ### Quelques oeuvres pour commencer 
+1. Monotau - Cradle (2022) https://www.fxhash.xyz/generative/slug/cradle
+2. Matt DesLauriers - Crystal Towers (2017) https://www.behance.net/gallery/56908173/Crystal-Towers
+3. Nikola Damjanov - Protist Florist A01 (2022) https://www.artstation.com/artwork/zDGLzm
 
 ### Atelier 
 1. Créer une architecture générative à l'aide de blocs.
