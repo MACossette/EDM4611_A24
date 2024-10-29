@@ -21,6 +21,12 @@ Execices atelier:
 
 Ressources: 
 1. https://donnees.montreal.ca/
-2. https://www.worldometers.info/
-3. https://data.nasa.gov/data_visualizations.html
+2. https://data.nasa.gov/data_visualizations.html
+3. https://search.open.canada.ca/opendata/ 
+4. https://www.donneesquebec.ca/
+5. https://data.europa.eu/en
+6. https://dataportal.opendataforafrica.org/
+7. https://datacatalog.worldbank.org/home
+
+
 
